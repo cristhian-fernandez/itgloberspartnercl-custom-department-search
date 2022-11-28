@@ -1,0 +1,37 @@
+query {
+	categories(treeLevel:2){
+    id,
+    name,
+    slug,
+    children{
+      id,
+    	name,
+    	slug
+    }
+  }
+}
+
+# {
+#   productSearch(fullText:"ladrillo"){
+#     products{
+#       brand,
+#       categoryId,
+#       productName,
+#       categoryTree{
+#         name
+#       }
+      
+#     }
+#   },
+#   productSuggestions(fullText:"ladrillo"){
+#      products{
+#       brand,
+#       categoryId,
+#       productName,
+#       categoryTree{
+#         name
+#       }
+      
+#     }
+#   }
+# }
