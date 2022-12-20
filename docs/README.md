@@ -6,7 +6,7 @@ Componente que da la opción de elegir un departamento en la barra de búsqueda.
 
 ### Paso 1: Clonar Proyecto
 
-Clonar [este](https://github.com/kamivillabla/itgloberspartnercl-custom-department-search) repositorio en tu computador.
+Clonar [este](https://github.com/cristhian-fernandez/itgloberspartnercl-custom-department-search/) repositorio en tu computador.
 
 #### Paso 2 : Editar el Manifest.json
 
